@@ -11,9 +11,11 @@ Complete the `printpractice.py` file to output a fake address on three separate 
 3.  **Line 3:** City, State Zip
 
 ### Expected Output Example:
-```Joe Schmo 
+```text
+Joe Schmo 
 1234 Circle Way 
-Pittsburgh, PA, 15228```
+Pittsburgh, PA, 15228
+```
 
 ## How to Run Your Program in Codespaces
 
